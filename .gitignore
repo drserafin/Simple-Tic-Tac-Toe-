@@ -1,0 +1,13 @@
+# Ignore build artifacts and compiled files
+build/
+*.o
+*.out
+*.exe
+*.dSYM/
+game
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
